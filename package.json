@@ -1,0 +1,15 @@
+{
+  "name": "cypress_before_spec_promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.11.0",
+    "typescript": "^4.8.4"
+  }
+}
